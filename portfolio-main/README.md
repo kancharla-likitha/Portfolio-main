@@ -1,4 +1,5 @@
-# Joshika S — Personal Portfolio
+Kancharla Likitha
+— Personal Portfolio
 
 Aspiring Full Stack Developer | Backend Developer | Spring Boot Developer | AI Enthusiast
 
